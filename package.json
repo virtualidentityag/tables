@@ -1,0 +1,23 @@
+{
+  "name": "tables",
+  "version": "0.1",
+  "description": "filterable tables",
+  "main": "jquery.tables.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/virtualidentityag/tables"
+  },
+  "keywords": [
+    "tables",
+    "js"
+  ],
+  "author": "JW, VI",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/virtualidentityag/tables/issues"
+  },
+  "homepage": "https://github.com/virtualidentityag/tables#readme"
+}
